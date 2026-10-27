@@ -47,13 +47,38 @@
 </details>
 
 <details open>  
-  <summary><h2>📘 Meus Principais Projetos e Repositórios</h2></summary>
+  <summary><h2>📘 Principais Projetos e Repositórios</h2></summary>
 
-  <p align="left">
-    <a href="https://github.com/maycon-d-oliveira/Inventario-ti">
-      <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=maycon-d-oliveira&repo=Inventario-ti&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Inventario-ti">
-    </a>
+  <br/>
+
+  <!-- Featured Repository Card + Custom Summary -->
+
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/maycon-d-oliveira/Inventario-ti">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=maycon-d-oliveira&repo=Inventario-ti&theme=tokyonight&show_owner=true" alt="Inventario-ti" />
+        </a>
+      </td>
+      <td width="50%" valign="top">
+        <h3>📦 <a href="https://github.com/maycon-d-oliveira/Inventario-ti">Inventario-ti</a></h3>
+        <p><b>Sistema de Gestão e Inventário de Ativos de TI</b></p>
+        <p>Solução desenvolvida para controle, monitoramento e rastreamento de ativos de infraestrutura e dispositivos de tecnologia da informação. Integração com ERPs e ferramentas MDM.</p>
+        <p>
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        </p>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <p align="center">
+    <a href="https://github.com/maycon-d-oliveira?tab=repositories"><img alt="Todos os Repositórios" title="Todos os Repositórios" src="https://custom-icon-badges.demolab.com/badge/-Ver%20Todos%20os%20Meus%20Reposit%C3%B3rios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </p>
+</details>
 
 
 <details open> 
