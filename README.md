@@ -47,17 +47,18 @@
 </details>
 
 <details open>  
-  <summary><h2>📘 Projetos e Soluções em Destaque</h2></summary>
+  <summary><h2>📘 Meus Principais Projetos e Repositórios</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/maycon-d-oliveira"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=maycon-d-oliveira&repo=doc-automation&theme=react&bg_color=1F222E&title_color=6366f1&hide_border=true&icon_color=a855f7&show_icons=true" alt="Doc Automation"></a>
-    <a href="https://github.com/maycon-d-oliveira"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=maycon-d-oliveira&repo=datasul-pulsus-integration&theme=react&bg_color=1F222E&title_color=6366f1&hide_border=true&icon_color=a855f7&show_icons=true" alt="Datasul Integration"></a>
+    <a href="https://github.com/maycon-d-oliveira/Inventario-ti">
+      <img width="380" src="https://github-readme-stats.vercel.app/api/pin/?username=maycon-d-oliveira&repo=Inventario-ti&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="Inventario-ti">
+    </a>
   </p>
 
-<a href="https://github.com/maycon-d-oliveira?tab=repositories"><img alt="Todos os repositórios" title="Todos os repositórios" src="https://custom-icon-badges.demolab.com/badge/-Clique%20Aqui%20Para%20Ver%20Meus%20Reposit%C3%B3rios-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</details>
 
 <details open> 
+
+  
   <summary><h2>🛠️ Linguagens e Tecnologias</h2></summary>
 
   <h3>👨‍💻 Linguagens de Programação e Frameworks</h3>
