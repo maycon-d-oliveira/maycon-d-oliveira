@@ -2,7 +2,7 @@
   <a href="https://github.com/maycon-d-oliveira">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0284c7&height=180&section=header&text=Maycon%20D.%20Oliveira&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="Maycon D. Oliveira" />
   </a>
-  <img src="https://img.shields.io/static/v1?label=Overview&message=Maycon &color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+ 
 </p>
 
 <p align="center">
@@ -111,15 +111,15 @@
 <br/>
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/maycon-d-oliveira/maycon-d-oliveira/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://raw.githubusercontent.com/maycon-d-oliveira/maycon-d-oliveira/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 <br/>
  <picture data-importer="pacman">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/galaga-contribution-graph.svg?game=galaga">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/galaga-contribution-graph.svg?game=galaga">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maycon-d-oliveira/maycon-d-oliveira/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maycon-d-oliveira/maycon-d-oliveira/pacman-output/galaga-contribution-graph.svg?game=galaga">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maycon-d-oliveira/maycon-d-oliveira/pacman-output/galaga-contribution-graph.svg?game=galaga">
   </picture>
 
   </br>
