@@ -156,3 +156,5 @@
   <img src="https://raw.githubusercontent.com/maycon-d-oliveira/maycon-d-oliveira/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/maycon-d-oliveira/maycon-d-oliveira/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0284c7&height=120&section=footer" alt="footer"/>
