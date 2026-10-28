@@ -13,9 +13,11 @@
 
 <!-- Links sociais -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/maycon-d-oliveira/"><img width="28px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/maycon-d-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:contato@exemplo.com"><img width="28px" alt="E-mail" title="Enviar E-mail" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  <a href="mailto:maycondouglas.code@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/5517996124158?text=Ol%C3%A1!%20Vim%20pelo%20seu%20GitHub%20e%20queria%20trocar%20uma%20ideia!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
 <br/>
