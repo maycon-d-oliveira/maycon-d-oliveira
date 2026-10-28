@@ -2,6 +2,7 @@
   <a href="https://github.com/maycon-d-oliveira">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0284c7&height=180&section=header&text=Maycon%20D.%20Oliveira&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="Maycon D. Oliveira" />
   </a>
+  <img src="https://img.shields.io/static/v1?label=Overview&message=Maycon &color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 </p>
 
 <p align="center">
@@ -12,11 +13,12 @@
 </p>
 
 <!-- Links sociais -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/maycon-d-oliveira/"><img width="28px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:contato@exemplo.com"><img width="28px" alt="E-mail" title="Enviar E-mail" src="https://i.imgur.com/PpLeD3K.png"/></a>
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/maycon-d-oliveira/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="mailto:maycondouglas.code@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://wa.me/5517996124158?text=Ol%C3%A1!%20Vim%20pelo%20seu%20GitHub%20e%20queria%20trocar%20uma%20ideia!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> 
 </p>
+
 
 <br/>
 
@@ -34,23 +36,49 @@
 <br/>
 
 <!-- Seção Sobre Mim -->
-<details open>  
-  <summary><h2>👋 Sobre Mim</h2></summary>
-
-  <p>Profissional de Tecnologia movido por desafios complexos, unindo <b>Desenvolvimento Full-Stack</b>, <b>Infraestrutura</b> e <b>DevOps</b> para entregar soluções eficientes e escaláveis.</p>
-
-  <ul>
-    <li>🏛️ <b>Setor Público & Jurídico:</b> Atuação em suporte, implementação e diagnóstico de sistemas para procuradorias municipais e autarquias (Plataforma Interlitis), integrando com tribunais (TRF3, MNI, PJe, JUS.br).</li>
-    <li>⚡ <b>Automação & Processamento:</b> Desenvolvimento de utilitários e automações full-stack para manipulação em lote de documentos (.docx) utilizando .NET, Python e OpenXML.</li>
-    <li>🐳 <b>Gestão de Ativos & ERP:</b> Criação de aplicações containerizadas (Flask/Docker) integrando o ERP <b>TOTVS Datasul</b> e o MDM <b>Pulsus</b> para controle e rastreamento de dispositivos.</li>
-  </ul>
-</details>
+<table width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h2>👋 Sobre Mim</h2>
+      <p>
+        Profissional de Tecnologia movido por desafios complexos, unindo <b>Desenvolvimento Full-Stack</b>, <b>Infraestrutura</b> e <b>DevOps</b> para entregar soluções eficientes e escaláveis.
+      </p>
+      <ul>
+        <li>⚡ <b>Automação & Processamento:</b> Desenvolvimento de utilitários e automações full-stack para manipulação em lote de documentos (.docx) utilizando .NET, Python e OpenXML.</li>
+        <li>🐳 <b>Gestão de Ativos & ERP:</b> Criação de aplicações containerizadas (Flask/Docker) integrando o ERP <b>TOTVS Datasul</b> e o MDM <b>Pulsus</b> para controle e rastreamento de dispositivos.</li>
+      </ul>
+      <p>
+        🦄 <b>Linguagens:</b> C#, .NET Core, Python, Flask, TypeScript, JavaScript, Angular, PHP, Delphi, PL/SQL.
+      </p>
+      <p>
+        💼 <b>Ferramentas & Infraestrutura:</b> Docker, PostgreSQL, MongoDB, Git, Linux, TOTVS Datasul, Pulsus MDM.
+      </p>
+      <p>
+        💌 Sinta-se à vontade para entrar em contato: ⤵️
+      </p>
+      <p>
+        <a href="mailto:contato@exemplo.com" title="Gmail">
+          <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+        </a>
+        <a href="https://www.linkedin.com/in/maycon-d-oliveira/" title="LinkedIn">
+          <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+        </a>
+        <a href="https://wa.me/5500000000000" title="WhatsApp">
+          <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+        </a>
+      </p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de computador" width="380" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <!-- Seção de Projetos em Destaque -->
-<details open>  
-  <summary><h2>📘 Principais Projetos</h2></summary>
+
+  <h2>📘 Principais Projetos</h2>
 
   <br/>
 
@@ -73,19 +101,31 @@
       </td>
     </tr>
   </table>
-
   <br/>
+ 
 
   <p align="center">
     <a href="https://github.com/maycon-d-oliveira?tab=repositories"><img alt="Ver Todos os Repositórios" title="Todos os Repositórios" src="https://custom-icon-badges.demolab.com/badge/-Ver%20Todos%20os%20Meus%20Reposit%C3%B3rios-1e3a8a?style=for-the-badge&logoColor=white&logo=repo"/></a>
   </p>
-</details>
 
 <br/>
 
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+<br/>
+ <picture data-importer="pacman">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/galaga-contribution-graph.svg?game=galaga">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  </picture>
+
+  </br>
+
 <!-- Seção de Linguagens e Tecnologias -->
-<details open>  
-  <summary><h2>🛠️ Linguagens e Tecnologias</h2></summary>
+  <h2>🛠️ Linguagens e Tecnologias</h2>
 
   <br/>
 
@@ -110,4 +150,4 @@
     <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" alt="Git" />
     <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   </p>
-</details>
+
