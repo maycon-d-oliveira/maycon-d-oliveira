@@ -2,9 +2,7 @@
   <a href="https://github.com/maycon-d-oliveira">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0284c7&height=180&section=header&text=Maycon%20D.%20Oliveira&fontSize=38&fontColor=ffffff&animation=fadeIn" alt="Maycon D. Oliveira" />
   </a>
- 
 </p>
-
 <p align="center">
   <!-- Subtítulo dinâmico -->
   <a href="https://github.com/maycon-d-oliveira">
@@ -110,28 +108,8 @@
 
 <br/>
 
- <h2>📊 Estatísticas</h2>
- <br/>
-<div data-importer="stats" align="center">
-  <img height="150" alt="Gráfico de stats" class="max-w-full" src="https://github-readme-stats.profile-readme-generator.com/api?username=maycon-d-oliveira&amp;hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dark&amp;locale=pt-br&amp;hide_border=false&amp;order=1">
-  <img src="https://raw.githubusercontent.com/maycon-d-oliveira/maycon-d-oliveira/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-
-<br/>
- <picture data-importer="pacman">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maycon-d-oliveira/maycon-d-oliveira/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maycon-d-oliveira/maycon-d-oliveira/pacman-output/galaga-contribution-graph.svg?game=galaga">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maycon-d-oliveira/maycon-d-oliveira/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  </picture>
-
-  </br>
-
 <!-- Seção de Linguagens e Tecnologias -->
-  <h2>🛠️ Linguagens e Tecnologias</h2>
-
-  <br/>
-
+  <h2>💻 Tech Stack:</h2>
   <h3>👨‍💻 Linguagens & Frameworks</h3>
   <p>
     <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
@@ -154,5 +132,14 @@
     <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   </p>
 
+ <h2>📊 GitHub Stats:</h2>
+ <br/>
+<div data-importer="stats" align="center">
+  <img height="150" alt="Gráfico de stats" class="max-w-full" src="https://github-readme-stats.profile-readme-generator.com/api?username=maycon-d-oliveira&amp;hide_title=false&amp;hide_rank=false&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;disable_animations=false&amp;theme=dark&amp;locale=pt-br&amp;hide_border=false&amp;order=1">
+  <img src="https://raw.githubusercontent.com/maycon-d-oliveira/maycon-d-oliveira/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+### ✍️ Citação:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:0284c7&height=120&section=footer" alt="footer"/>
