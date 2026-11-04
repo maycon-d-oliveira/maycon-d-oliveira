@@ -55,13 +55,13 @@
         💌 Sinta-se à vontade para entrar em contato: ⤵️
       </p>
       <p>
-        <a href="mailto:contato@exemplo.com" title="Gmail">
+        <a href="mailto:maycondouglas.code@gmail.com" title="Gmail">
           <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
         </a>
         <a href="https://www.linkedin.com/in/maycon-d-oliveira/" title="LinkedIn">
           <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
         </a>
-        <a href="https://wa.me/5500000000000" title="WhatsApp">
+        <a href="https://wa.me/5517996124158?text=Ol%C3%A1!%20Vim%20pelo%20seu%20GitHub%20e%20queria%20trocar%20uma%20ideia!" title="WhatsApp">
           <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
         </a>
       </p>
