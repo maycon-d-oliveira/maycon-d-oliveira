@@ -80,25 +80,28 @@
 
   <br/>
 
-  <table width="100%">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <a href="https://github.com/maycon-d-oliveira/Inventario-ti">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=maycon-d-oliveira&repo=Inventario-ti&theme=nord&show_owner=true" alt="Inventario-ti" />
-        </a>
-      </td>
-      <td width="50%" valign="top">
-        <h3>📦 <a href="https://github.com/maycon-d-oliveira/Inventario-ti">Inventario-ti</a></h3>
-        <p><b>Sistema de Gestão e Inventário de Ativos de TI</b></p>
-        <p>Solução corporativa desenvolvida para controle, monitoramento e rastreamento de ativos de infraestrutura e dispositivos de TI, com integração direta a ERPs e ferramentas MDM.</p>
-        <p>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        </p>
-      </td>
-    </tr>
-  </table>
+ <table width="100%">
+  <tr>
+    <td width="45%" align="center" valign="middle">
+      <a href="https://github.com/maycon-d-oliveira/Inventario-ti">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=maycon-d-oliveira&repo=Inventario-ti&theme=nord&show_owner=true" alt="Inventario-ti" />
+      </a>
+    </td>
+    <td width="55%" valign="middle" style="padding-left: 20px;">
+      <p><b>Controle, monitoramento e rastreamento de ativos de infraestrutura</b> e dispositivos de TI, projetado para otimizar a gestão de inventário e suporte técnico corporativo.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dockerfile-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Shell-89E051?style=flat-square&logo=gnu-bash&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+</table>
   <br/>
  
 
